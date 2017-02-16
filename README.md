@@ -21,3 +21,5 @@ javac 1.8.0_112
 javac performance.java && java performance
 
 clang performance.c && ./a.out 
+
+php performance.php
