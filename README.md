@@ -4,7 +4,7 @@ Compare performances of different languages and its interpreters / compilers.
 Each implementation of the program measures the time it needs to calculate a certain amount of prime numbers with an unoptimized brute force algorithm.
 
 # Results on my System
-Java: 64199 ms
+Java: 63772 ms
 
 C: 63728 ms
 ___________________________________________________
