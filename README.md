@@ -7,8 +7,7 @@ Each implementation of the program measures the time it needs to calculate a cer
 Java: 64199 ms
 
 C: 63728 ms
-
-
+___________________________________________________
 Used Compilers/Interpreters:
 
 clang version 3.9.1 (tags/RELEASE_391/final)
