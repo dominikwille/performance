@@ -16,8 +16,6 @@ javac 1.8.0_112
 
 # Usage
 
-Java Implementation:
 javac performance.java && java performance
 
-C Implementation:
 clang performance.c && ./a.out 
