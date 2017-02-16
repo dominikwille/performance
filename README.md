@@ -1,4 +1,4 @@
-# performance
+# Performance
 Compare performances of different languages and its interpreters / compilers.
 
 Each implementation of the program measures the time it needs to calculate a certain amount of prime numbers with an unoptimized brute force algorithm.
