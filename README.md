@@ -6,7 +6,9 @@ Each implementation of the program measures the time it needs to calculate a cer
 # Results on my System
 Java: 63772 ms
 
-C: 63728 ms
+C:    63728 ms
+
+PHP:  457932 ms
 ___________________________________________________
 Used Compilers/Interpreters:
 
