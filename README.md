@@ -5,10 +5,14 @@ Each implementation of the program measures the time it needs to calculate a cer
 
 # Results on my System
 Java: 64199 ms
+
 C: 63728 ms
 
+
 Used Compilers/Interpreters:
+
 clang version 3.9.1 (tags/RELEASE_391/final)
+
 javac 1.8.0_112
 
 # Usage
