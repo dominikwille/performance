@@ -11,6 +11,9 @@ C:    63728 ms
 PHP:  457932 ms
 
 Python: currently very long
+
+Python with jit: 148209 ms
+
 ___________________________________________________
 Used Compilers/Interpreters:
 
@@ -22,6 +25,7 @@ PHP 7.0.14 (cli) (built: Dec  7 2016 17:11:27) ( NTS )
 
 Python 3.6.0
 
+Python 3.6.4 :: Anaconda, Inc. (with numba)
 
 # Usage
 
@@ -32,5 +36,7 @@ clang performance.c && ./a.out
 php performance.php
 
 python performance.py
+
+python performance.jit.py
 
 
